@@ -62,39 +62,39 @@ status:     🟢 Open to Collaboration
 
 ## 🏗 Featured Projects
 
-### 🔍 AI-Powered Smart Contract Audit Tool
-*Automated vulnerability detection for Solidity contracts*
+### 🔍 AI-Powered Smart Contract Audit Tool  
+*Automated vulnerability detection for Solidity contracts*  
 
-An AI-driven system that analyzes Solidity smart contracts for security issues — reducing manual audit time and making blockchain security accessible to every developer, not just expert auditors.
+An AI-driven system that analyzes Solidity smart contracts for security issues — reducing manual audit time and making blockchain security accessible to every developer, not just expert auditors.  
 
-**Key Features**
-- 🛡 AI-generated vulnerability detection for Solidity contracts
-- 📋 Automated audit reports with severity rankings
-- ⚡ Built for developers who ship fast and need security guardrails
-
----
-
-### 🌌 AI Immersive Experience Platform
-*Personalized AI-generated virtual environments*
-
-A platform that uses AI to generate adaptive, personalized virtual experiences — dynamically shifting environments based on user preferences, behavior, and context.
-
-**Key Features**
-- 🎨 Dynamic AI-generated scene composition
-- 🔌 Offline-capable architecture for low-connectivity environments
-- 🌍 Built for scale across diverse, global user bases
+**Key Features**  
+- 🛡 AI-generated vulnerability detection for Solidity contracts  
+- 📋 Automated audit reports with severity rankings  
+- ⚡ Built for developers who ship fast and need security guardrails  
 
 ---
 
-### 🪙 Star Kambot
-*Experimental tokenomics + blockchain utility design*
+### 🌌 AI Immersive Experience Platform  
+*Personalized AI-generated virtual environments*  
 
-A conceptual token project exploring how incentive design and utility architecture can power sustainable blockchain ecosystems.
+A platform that uses AI to generate adaptive, personalized virtual experiences — dynamically shifting environments based on user preferences, behavior, and context.  
 
-**Key Features**
-- 📐 Custom tokenomics modeling
-- 🔗 Utility layer design for real-world use cases
-- ⛓ Blockchain integration architecture
+**Key Features**  
+- 🎨 Dynamic AI-generated scene composition  
+- 🔌 Offline-capable architecture for low-connectivity environments  
+- 🌍 Built for scale across diverse, global user bases  
+
+---
+
+### 💬 OpenAI API Projects  
+*Hands-on AI integration projects using OpenAI API*  
+
+Projects built to explore practical AI applications in web development and automation.  
+
+**Key Features**  
+- 🤖 AI Chatbot for instant Q&A and support  
+- 💻 AI Code Explainer for developer productivity  
+- ✍ AI Content Generator for web and social media automation
 
 ---
 
