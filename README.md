@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7928ca&height=200&section=header&text=Mustapha%20Abdulsalam&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Sabeer%20%7C%20Web3%20Developer%20%7C%20AI%20Builder%20%7C%20Frontend%20Engineer&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Experiences;Smart+Contract+Security+Focused;Web3+Product+Engineer;Hackathon+Driven+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=black&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Experiences;Smart+Contract+Security+Focused;Web3+Product+Engineer;Hackathon+Driven+Innovator)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sabeerhub?style=for-the-badge&color=00f7ff&labelColor=0d1117&logo=github&label=Follow)](https://github.com/sabeerhub)
 [![Profile Views](https://komarev.com/ghpvc/?username=sabeerhub&style=for-the-badge&color=7928ca&labelColor=0d1117&label=Profile+Views)](https://github.com/sabeerhub)
