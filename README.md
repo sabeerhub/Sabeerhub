@@ -14,16 +14,37 @@
 ## `$ whoami`
 
 ```yaml
-name:       Mustapha Abdulsalam (Sabeer)
-role:       Web3 Developer · AI Builder · Frontend Engineer
-location:   Nigeria 🇳🇬
-blockchain: 1+ year hands-on experience
-focus:
-  - Smart Contract Security & Auditing
-  - AI-Powered Web Experiences
-  - Immersive Frontend Architecture
-mission:    Build systems that are not just functional — but scalable, intelligent, and secure
-status:     🟢 Open to Collaboration
+# Mustapha Abdulsalam (Sabeer)
+
+## Role
+Web3 Developer · AI Builder · Frontend Engineer
+
+## Location
+Nigeria 🇳🇬
+
+## Blockchain Experience
+1+ year hands-on experience in Web3 development
+
+## Focus Areas
+- Smart Contract Security & Auditing  
+- AI-powered web experiences  
+- Immersive frontend architecture  
+
+## Mission
+Build systems that are not just functional — but scalable, intelligent, and secure.
+
+## Status
+🟢 Open to collaboration
+
+---
+
+## About
+I am Mustapha Abdulsalam (Sabeer), a developer focused on building intelligent digital systems that combine AI, Web3, and modern frontend engineering. I work at the intersection of secure blockchain systems and interactive user experiences.
+
+---
+
+## Core Identity
+Frontend Engineering + AI Systems + Web3 Security
 ```
 
 ---
